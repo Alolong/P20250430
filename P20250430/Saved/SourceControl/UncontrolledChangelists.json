@@ -1,0 +1,43 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/P20250430/P20250430/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
+				"C:/P20250430/P20250430/Content/ThirdPerson/Blueprints/BP_TestChar.uasset",
+				"C:/P20250430/P20250430/Content/Monster/AI/BB_AIState.uasset",
+				"C:/P20250430/P20250430/Content/Monster/AI/BT_AIState.uasset",
+				"C:/P20250430/P20250430/Content/Monster/AI/BTTask_SearchTarget.uasset",
+				"C:/P20250430/P20250430/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/P20250430/P20250430/Content/Characters/Mannequins/Animations/Manny/MM_Idle.uasset",
+				"C:/P20250430/P20250430/Content/Vefects/Stylized_Female_Character_Vexa/SK/ABP_char.uasset",
+				"C:/P20250430/P20250430/Content/Vefects/Stylized_Female_Character_Vexa/SK/BS_walkRun.uasset",
+				"C:/P20250430/P20250430/Content/Vefects/Stylized_Female_Character_Vexa/SK/IK_RTG.uasset",
+				"C:/P20250430/P20250430/Content/Vefects/Stylized_Female_Character_Vexa/SK/RTG.uasset",
+				"C:/P20250430/P20250430/Content/Monster/BP_Monster.uasset",
+				"C:/P20250430/P20250430/Content/Monster/AI/AI_Con.uasset",
+				"C:/P20250430/P20250430/Content/Monster/BP_ThirdPersonGameMode.uasset",
+				"C:/P20250430/P20250430/Content/Monster/BP_ThirdPersonCharacter1.uasset",
+				"C:/P20250430/P20250430/Content/Monster/BP_AIMons.uasset",
+				"C:/P20250430/P20250430/Content/ThirdPerson/Blueprints/BP_Char.uasset",
+				"C:/P20250430/P20250430/Content/ThirdPerson/Blueprints/CharComp/BP_ItemSpawn.uasset",
+				"C:/P20250430/P20250430/Content/ThirdPerson/Blueprints/CharComp/BP_AISapwn.uasset",
+				"C:/P20250430/P20250430/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/P20250430/P20250430/Content/ThirdPerson/Blueprints/Item/BP_ItemBase.uasset",
+				"C:/P20250430/P20250430/Content/ThirdPerson/Blueprints/Item/DT_Item.uasset",
+				"C:/P20250430/P20250430/Content/ThirdPerson/Blueprints/Item/BP_Red.uasset",
+				"C:/P20250430/P20250430/Content/ThirdPerson/Blueprints/Item/BP_Green.uasset",
+				"C:/P20250430/P20250430/Content/ThirdPerson/Blueprints/Item/BP_Blue.uasset",
+				"C:/P20250430/P20250430/Content/ThirdPerson/Blueprints/Item/ST_Item.uasset",
+				"C:/P20250430/P20250430/Content/ThirdPerson/Blueprints/Item/BP_Heal.uasset",
+				"C:/P20250430/P20250430/Content/ThirdPerson/Blueprints/Common/BP_NameOBJ.uasset",
+				"C:/P20250430/P20250430/Content/ThirdPerson/Blueprints/Common/BP_NameTag.uasset",
+				"C:/P20250430/P20250430/Content/ThirdPerson/Blueprints/PlayerState/BP_PlayerState.uasset",
+				"C:/P20250430/P20250430/Content/ThirdPerson/Blueprints/Common/BP_NameTagComp.uasset",
+				"C:/P20250430/P20250430/Content/ThirdPerson/Blueprints/BP_GameMode.uasset"
+			]
+		}
+	]
+}
